@@ -1,0 +1,19 @@
+{
+  "name": "js-mongo",
+  "version": "0.0.1",
+  "description": "JS-ify Mongo",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/js-mongo.git"
+  },
+  "author": "Brian C Sparks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/js-mongo/issues"
+  },
+  "homepage": "https://github.com/briancsparks/js-mongo#readme"
+}
