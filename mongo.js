@@ -18,3 +18,7 @@ _.each(require('./lib/write'), function(value, key) {
   exports[key] = value;
 });
 
+_.each(require('./lib/stats'), function(value, key) {
+  exports[key] = value;
+});
+
